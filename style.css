@@ -50,7 +50,7 @@ body {
 .banner {
     min-height: 100vh;
     background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
-    url();
+    url(https://img.freepik.com/vetores-gratis/hamburguer-realista-no-fundo-do-quadro_79603-1042.jpg?semt=ais_hybrid);
     background-size: cover;
     background-position: center;
     display: flex;
